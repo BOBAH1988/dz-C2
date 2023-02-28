@@ -1,0 +1,15 @@
+/Users/vladimir/Documents/Study/dz-C2/bin/Debug/net7.0/dz-C2
+/Users/vladimir/Documents/Study/dz-C2/bin/Debug/net7.0/dz-C2.deps.json
+/Users/vladimir/Documents/Study/dz-C2/bin/Debug/net7.0/dz-C2.runtimeconfig.json
+/Users/vladimir/Documents/Study/dz-C2/bin/Debug/net7.0/dz-C2.dll
+/Users/vladimir/Documents/Study/dz-C2/bin/Debug/net7.0/dz-C2.pdb
+/Users/vladimir/Documents/Study/dz-C2/obj/Debug/net7.0/dz-C2.csproj.AssemblyReference.cache
+/Users/vladimir/Documents/Study/dz-C2/obj/Debug/net7.0/dz-C2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimir/Documents/Study/dz-C2/obj/Debug/net7.0/dz-C2.AssemblyInfoInputs.cache
+/Users/vladimir/Documents/Study/dz-C2/obj/Debug/net7.0/dz-C2.AssemblyInfo.cs
+/Users/vladimir/Documents/Study/dz-C2/obj/Debug/net7.0/dz-C2.csproj.CoreCompileInputs.cache
+/Users/vladimir/Documents/Study/dz-C2/obj/Debug/net7.0/dz-C2.dll
+/Users/vladimir/Documents/Study/dz-C2/obj/Debug/net7.0/refint/dz-C2.dll
+/Users/vladimir/Documents/Study/dz-C2/obj/Debug/net7.0/dz-C2.pdb
+/Users/vladimir/Documents/Study/dz-C2/obj/Debug/net7.0/dz-C2.genruntimeconfig.cache
+/Users/vladimir/Documents/Study/dz-C2/obj/Debug/net7.0/ref/dz-C2.dll
